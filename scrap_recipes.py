@@ -3,11 +3,7 @@ import requests
 from bs4 import BeautifulSoup 
 from collections import defaultdict
 import json
-import sqlite3
 import re
-import matplotlib.pyplot as plt
-import pandas as pd
-import seaborn as sns
 
 # creates dictionary of dictionaries --> nested dictionaries
 dataDict = defaultdict(dict) 
@@ -20,9 +16,6 @@ links = []
 website = f"https://www.nutrition.gov/recipes/search"
 webpage = requests.get(website) # API call to website
 soup = BeautifulSoup(webpage.content, 'lxml')
-
-# Download into a text file
-
 
 li = soup.find_all('li', class_="usa-pagination__item usa-pagination__arrow usa-pagination__page-no")
 pages = [l.a.get('href') for l in li]
@@ -50,3 +43,9 @@ for i in range(len(links)): # rel="bookmark" helps filter out the recipe links
     dataDict['ingredients'][i] = ingr_csv
     
 print("Total number of recipes:", len(dataDict['name']))
+
+'''Created a json file that holds the recipes data.'''
+filename = "recipes.json"
+with open(filename, 'w') as f:
+    json.dump(dataDict, f) # writes data into a json file
+    print("JSON file created.")

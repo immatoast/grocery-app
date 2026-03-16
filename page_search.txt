@@ -1,0 +1,1138 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+<meta charset="utf-8"/>
+<link href="https://www.nutrition.gov/recipes/search" rel="canonical"/>
+<meta content="Drupal 11 (https://www.drupal.org)" name="Generator"/>
+<meta content="width" name="MobileOptimized"/>
+<meta content="true" name="HandheldFriendly"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="/themes/custom/global_subtheme/favicon.ico" rel="icon" type="image/vnd.microsoft.icon"/>
+<title>Recipe Search | Nutrition.gov</title>
+<link href="/themes/custom/nal_global/images/favicons/favicon-57.png" rel="apple-touch-icon-precomposed"/>
+<link href="/themes/custom/nal_global/images/favicons/favicon-72.png" rel="apple-touch-icon-precomposed" sizes="72x72"/>
+<link href="/themes/custom/nal_global/images/favicons/favicon-114.png" rel="apple-touch-icon-precomposed" sizes="114x114"/>
+<link href="/themes/custom/nal_global/images/favicons/favicon-144.png" rel="apple-touch-icon-precomposed" sizes="144x144"/>
+<link href="/sites/default/files/css/css_jDiz_1GvZy2HFS7kocNw5NN1S9vGBb5GLZPiQGlRaag.css?delta=0&amp;language=en&amp;theme=global_subtheme&amp;include=eJyFkGFyhDAIhS8U45EckrAx3QScgKt7-8bqTre2Y__AwPtgHniu2HsuExOSio2ZHeRBZqcjFuy6ESFgHQZcFSlgMP40QQ3fp7rOARHWa2RWZbpEIj-wUmn9ISe6yyU8QUwEmv7ZKUlxcBUoJIp_ksI-tZQ8kzT-rdrxUOcJsoUPWH802uLS5SRq2os2vy_hKM0NPKq8untl_Yj-7njtlhQiqjn9vT98iz7zZvgsz7IEMd8Hnvk3ZUflKc1n70DQPBIu0n9FWzjMGc2C7sa19Ee2mHH7vw2okLJY5RgvsIIiEH_rW_gE_aHsdQ" media="all" rel="stylesheet"/>
+<link href="/sites/default/files/css/css_vwN68Zxc1eTyqvAd2hZjPMTv60g5IOpXVMIEvpRHezE.css?delta=1&amp;language=en&amp;theme=global_subtheme&amp;include=eJyFkGFyhDAIhS8U45EckrAx3QScgKt7-8bqTre2Y__AwPtgHniu2HsuExOSio2ZHeRBZqcjFuy6ESFgHQZcFSlgMP40QQ3fp7rOARHWa2RWZbpEIj-wUmn9ISe6yyU8QUwEmv7ZKUlxcBUoJIp_ksI-tZQ8kzT-rdrxUOcJsoUPWH802uLS5SRq2os2vy_hKM0NPKq8untl_Yj-7njtlhQiqjn9vT98iz7zZvgsz7IEMd8Hnvk3ZUflKc1n70DQPBIu0n9FWzjMGc2C7sa19Ee2mHH7vw2okLJY5RgvsIIiEH_rW_gE_aHsdQ" media="all" rel="stylesheet"/>
+<script data-drupal-selector="drupal-settings-json" type="application/json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"recipes\/search","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"en","theme":"themes\/custom\/global_subtheme"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"gtag":{"tagId":"G-XNY615WEEL","consentMode":false,"otherIds":["G-ER98FFN75C"],"events":[],"additionalConfigInfo":[]},"ajaxPageState":{"libraries":"eJyNkmFyhCAMhS-EeCQmQmTpAtkhQdfbF6s73bGt9k-Y5H28ECaWCvaW0oMyZmHtIw0QDddBbpiw624IDosx-BTMDp2yhxu54dutrhsgZyznSGmGttQ08DlXRSifIjYSo_kH6GnCklOrmxjy_bxxsBduzaf-p-sDfMgg4QorIUFZTIYp-Gucg7SZC2QXsj8lKzswkTz9SjHZ0I51Wm6ub9mGu1IfEHXrlroYWFRbgPXzXsKeqhEsCr-qW6btDe19oGc3B-dRXhDTKM0sBVGHPev3R7MscZ3rKFeeHStP5CMaAd_7Fo65hg94qu8vOJq-KZsfL9zG6wdgVJVHdG1RzG4KjV4kWO7_VLR1WU0BZ-6_ok7kakQ14zBSSf1-aoy47p52KBAia4bpGhLy_sQrITP4n_oaPgFuNHxB","theme":"global_subtheme","theme_token":null},"ajaxTrustedUrl":{"\/recipes\/search":true,"https:\/\/search.usa.gov\/search":true},"data":{"extlink":{"extTarget":false,"extTargetAppendNewWindowDisplay":true,"extTargetAppendNewWindowLabel":"(opens in a new window)","extTargetNoOverride":false,"extNofollow":false,"extTitleNoOverride":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":".social-link,.usa-button,.important-links,.site-branding__usda","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"You are leaving the Nutrition.gov website to go to an external one. We are not responsible for the content on external websites.","extHideIcons":false,"mailtoClass":"mailto","telClass":"","mailtoLabel":"(link sends email)","telLabel":"(link is a phone number)","extUseFontAwesome":false,"extIconPlacement":"append","extPreventOrphan":false,"extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","allowedDomains":[],"extExcludeNoreferrer":""}},"facets":{"softLimit":{"recipe_categories":5},"softLimitSettings":{"recipe_categories":{"showLessLabel":"Show less","showMoreLabel":"Show more"}}},"user":{"uid":0,"permissionsHash":"792cf0126e111e4aeaa5acb3a9087b888dc8fff7901c292dcde43ba9946b0f73"}}</script>
+<script src="/sites/default/files/js/js_87vIQeBNd1JFfFIshcHQBVfAQ-cUYZDOqezKKK2wkhA.js?scope=header&amp;delta=0&amp;language=en&amp;theme=global_subtheme&amp;include=eJyFjv0OwjAIxF-oax9poS1jdbSYwT58e2ecMdEY_zly3A9ySWYMSepVGjZT34B7YonAXRehNZwd7salTSHPyxXYn9YNkND0tX06n0ZMU5S920omtBekMljHpRZzz-e9LtFGrBgW3bI6EiHG3oACHfLpPVxgd-9u59WiA2aStT9xOIiblaThZ-JTbm7DOMhcwzk98tGkmc9oUFi9wop_IRM6Pv_EKqoCfecPuQO6cpED"></script>
+<script src="/modules/contrib/google_tag/js/gtag.js?t9hr8h"></script>
+<script async="" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&amp;subagency=ARS-NAL&amp;siteplatform=Drupal"></script>
+</head>
+<body>
+<a class="visually-hidden focusable" href="#main-content">
+      Skip to main content
+    </a>
+<div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+<section aria-label="Official website of the United States government" class="usa-banner">
+<div class="usa-accordion">
+<header class="usa-banner__header">
+<div class="usa-banner__inner">
+<div class="grid-col-auto">
+<img alt="" aria-hidden="true" class="usa-banner__header-flag" src="/themes/custom/nal_global/uswds/img/us_flag_small.png"/>
+</div>
+<div aria-hidden="true" class="grid-col-fill tablet:grid-col-auto">
+<p class="usa-banner__header-text">An official website of the United States government</p>
+<p class="usa-banner__header-action">Here's how you know</p>
+</div>
+<button aria-controls="gov-banner-default" aria-expanded="false" class="usa-accordion__button usa-banner__button" type="button">
+<span class="usa-banner__button-text">Here's how you know</span>
+</button>
+</div>
+</header>
+<div class="usa-banner__content usa-accordion__content" id="gov-banner-default">
+<div class="grid-row grid-gap-lg">
+<div class="usa-banner__guidance tablet:grid-col-6">
+<svg class="usa-banner__icon usa-media-block__img banner-svg" data-name="dot gov icon" height="40px" id="dot_gov_icon" viewbox="0 0 54 54" width="40px" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+                .icon-dot-gov-1 {
+                  fill: #007faa;
+                }
+
+                .icon-dot-gov-2 {
+                  fill: none;
+                  stroke: #046b99 !important;
+                  stroke-miterlimit: 10;
+                }
+              </style>
+</defs>
+<title>dot gov icon</title>
+<path class="icon-dot-gov-1" d="M36.5,20.91v1.36H35.15a0.71,0.71,0,0,1-.73.68H18.23a0.71,0.71,0,0,1-.73-0.68H16.14V20.91l10.18-4.07Zm0,13.57v1.36H16.14V34.48a0.71,0.71,0,0,1,.73-0.68h18.9A0.71,0.71,0,0,1,36.5,34.48ZM21.57,23.62v8.14h1.36V23.62h2.71v8.14H27V23.62h2.71v8.14h1.36V23.62h2.71v8.14h0.63a0.71,0.71,0,0,1,.73.68v0.68H17.5V32.45a0.71,0.71,0,0,1,.73-0.68h0.63V23.62h2.71Z"></path>
+<circle class="icon-dot-gov-2" cx="27" cy="27.12" r="26"></circle>
+</svg>
+<div class="usa-media-block__body">
+<p>
+<strong>Official websites use .gov</strong><br/>
+                A <strong>.gov</strong> website belongs to an official government organization in the United States.            </p>
+</div>
+</div>
+<div class="usa-banner__guidance tablet:grid-col-6">
+<svg class="usa-banner__icon usa-media-block__img banner-svg" data-name="https icon" height="40px" id="https_icon" viewbox="0 0 54 54" width="40px" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+                .icon-https-1 {
+                  fill: #549500;
+                }
+
+                .icon-https-2 {
+                  fill: none;
+                  stroke: #458600;
+                  stroke-miterlimit: 10;
+                }
+              </style>
+</defs>
+<title>https icon</title>
+<path class="icon-https-1" d="M34.72,34.84a1.29,1.29,0,0,1-1.29,1.29H20.57a1.29,1.29,0,0,1-1.29-1.29V27.12a1.29,1.29,0,0,1,1.29-1.29H21V23.26a6,6,0,0,1,12,0v2.57h0.43a1.29,1.29,0,0,1,1.29,1.29v7.72Zm-4.29-9V23.26a3.43,3.43,0,0,0-6.86,0v2.57h6.86Z"></path>
+<circle class="icon-https-2" cx="27" cy="27.12" r="26"></circle>
+</svg>
+<div class="usa-media-block__body">
+<p>
+<strong>Secure .gov websites use HTTPS</strong><br/>
+                A <strong>lock</strong> ( <span class="icon-lock"><svg aria-hidden="true" class="usa-banner__lock-image" height="64" role="img" viewbox="0 0 52 64" width="52" xmlns="http://www.w3.org/2000/svg"><path d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z" fill="#000000" fill-rule="evenodd"></path></svg></span> ) or <strong>https://</strong> means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.            </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<header class="usa-header usa-header--extended" data-component-id="global_subtheme:header__extended">
+<div class="usa-navbar">
+<div class="nal-site-branding" data-component-id="nal_global:site_branding">
+<svg aria-labelledby="usda-logo" viewbox="0 0 147.04 100.58" xmlns="http://www.w3.org/2000/svg">
+<title id="usda-logo">USDA Logo</title>
+<defs>
+<style>.usda-logo-1{fill:#004785;}.usda-logo-2{fill:#005941;}</style>
+</defs>
+<g data-name="Layer 2" id="Layer_2">
+<g data-name="Layer 1" id="Layer_1-2">
+<path class="usda-logo-1" d="M33.36,4.09l-.19,25.36c0,10.54-6.26,14.63-14.69,14.63C11.22,44.08,2,40.86,2,29.88V4.09A3.16,3.16,0,0,0,0,1.3H11.9A3.11,3.11,0,0,0,10,4.09v26c0,4.34,1.49,10.48,9.55,10.48,7.38,0,10-4.84,10-11L29.45,4.09A3,3,0,0,0,27.78,1.3H35A3,3,0,0,0,33.36,4.09Z"></path>
+<path class="usda-logo-1" d="M50.15,44.08a26.37,26.37,0,0,1-11.9-3l-.31-10.48c1.18,4.4,4.9,10.23,11.35,10.23,6.13,0,8-4.4,8-7.44,0-6-5.39-6.76-11-9.8s-8.19-6.51-8.19-11.22C38.06,4,45.94.62,51.58.62a19.92,19.92,0,0,1,9.36,2.29l.31,9.18c-.87-3.29-4.4-8.25-10.35-8.25-4.72,0-6.58,3.29-6.58,6,0,3.78,2.67,5.2,8.5,7.87S64.6,22.44,64.6,31.06C64.6,38.81,57.78,44.08,50.15,44.08Z"></path>
+<path class="usda-logo-1" d="M84.62,43.46H68.69a3.08,3.08,0,0,0,1.61-2.79V4.09A3,3,0,0,0,68.69,1.3H85.18c20.4,0,24.49,14.45,24.49,20.46C109.67,32.55,101.36,43.46,84.62,43.46ZM83.88,4.4c-1.49,0-4.78,0-5.71.13V40.24h5c14,0,17.92-9.43,17.92-18.48C101.05,14.32,96.71,4.4,83.88,4.4Z"></path>
+<path class="usda-logo-1" d="M133.77,43.46c1.62-.87,1.93-1.73,1.49-3-.18-.62-1.8-4.4-3.53-8.61H116.54a89.58,89.58,0,0,0-3.47,8.55c-.56,1.49-.25,2.36,1.42,3.1h-8.55a7.38,7.38,0,0,0,2.91-3C110,38.07,126.33,0,126.33,0s16.5,38.07,17.61,40.42a5.45,5.45,0,0,0,3.1,3ZM124,13.39s-4.22,10.54-6.2,15.19H130.3C127.39,21.7,124,13.39,124,13.39Z"></path>
+<path class="usda-logo-2" d="M145.18,49.42S55,47.18,1.52,75.65c0,0,56.63-22.39,143.66-20.15Z"></path>
+<path class="usda-logo-2" d="M1.52,49.42s30.4.32,49.27,7.36c0,0-38.71-3.2-49.27-1.6Z"></path>
+<path class="usda-logo-2" d="M1.52,59.34s21.76-1,34.88.32c0,0-31.68,3.84-34.88,5.44Z"></path>
+<path class="usda-logo-2" d="M130.23,60.32h-.47C103.53,60.83,48.51,64,1.54,80.59v20l143.66,0V60.32S139.62,60.15,130.23,60.32Z"></path>
+</g>
+</g>
+</svg>
+<div class="nal-site-branding__text">
+<div class="nal-site-branding__site-name"><a href="/" rel="home" title="Home">Nutrition.gov</a></div>
+<div class="nal-site-branding__usda site-branding__usda"><a href="https://www.usda.gov">U.S. Department of Agriculture</a></div>
+</div>
+</div>
+<button class="usa-menu-btn cursor-pointer" data-component-id="nal_global:menu_button" type="button">Menu</button>
+</div>
+<nav aria-label="Primary navigation" class="usa-nav">
+<div class="usa-nav__inner">
+<button class="usa-nav__close nal-close-button bg-transparent border-0 cursor-pointer" data-component-id="nal_global:close_button">
+<svg aria-hidden="true" class="usa-icon" focusable="false" role="img"><use href="/themes/custom/nal_global/uswds/img/sprite.svg#close"></use></svg>
+<span class="usa-sr-only">Close</span>
+</button>
+<div class="usa-nav__secondary">
+<div class="language-switcher-language-url block block-language block-language-blocklanguage-interface" id="block-global-subtheme-languageswitcher" role="navigation">
+<ul class="links add-list-reset"><li data-drupal-language="es" data-drupal-link-system-path="recipes/search"><a class="language-link usa-button margin-right-0" data-drupal-link-system-path="recipes/search" href="/es/recipes/search" hreflang="es">Español</a></li></ul>
+</div>
+<div class="block block-webform block-webform-block" id="block-global-subtheme-webform">
+<form accept-charset="UTF-8" action="https://search.usa.gov/search" class="webform-submission-form webform-submission-add-form webform-submission-usasearch-form webform-submission-usasearch-add-form usa-search usa-search--small js-webform-details-toggle webform-details-toggle" data-drupal-selector="webform-submission-usasearch-add-form" id="webform-submission-usasearch-add-form" method="get" role="search">
+<div class="js-webform-type-search webform-type-search js-form-item form-item form-type-search js-form-type-search form-item-query js-form-item-query form-no-label">
+<label class="usa-label visually-hidden" for="edit-query">Site Search</label>
+<input class="form-search usa-input" data-drupal-selector="edit-query" id="edit-query" maxlength="128" name="query" placeholder="Search" size="40" type="search"/>
+</div>
+<input data-drupal-selector="edit-affiliate" name="affiliate" type="hidden" value="nutrition.gov"/>
+<div class="form-actions webform-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--oWzGttiqzxY">
+<button class="webform-button--submit button button--primary js-form-submit form-submit usa-button" data-component-id="nal_global:button" data-drupal-selector="edit-actions-submit" id="edit-actions-submit" name="op" type="submit" value="Search"><svg aria-hidden="true" class="usa-icon" focusable="false" role="img"><use href="/themes/custom/nal_global/uswds/img/sprite.svg#search"></use></svg>
+<span class="nal-button__text">Search</span>
+</button>
+</div>
+</form>
+</div>
+</div>
+<ul class="usa-nav__primary usa-accordion" data-component-id="nal_global:primary_navigation">
+<li class="usa-nav__primary-item">
+<a class="usa-nav-link" data-drupal-link-system-path="&lt;front&gt;" href="/"><span>Home</span></a>
+</li>
+<li class="usa-nav__primary-item">
+<a class="usa-nav-link" data-drupal-link-system-path="node/2945" href="/about-us"><span>About Us</span></a>
+</li>
+<li class="usa-nav__primary-item">
+<button aria-controls="extended-nav-section-3" aria-expanded="false" class="usa-accordion__button usa-nav__link"><span>Topics</span></button>
+<ul class="usa-nav__submenu" hidden="" id="extended-nav-section-3">
+<li class="usa-nav__submenu-item">
+<a data-drupal-link-system-path="node/3927" href="/topics/ascend-better-health"><span>ASCEND</span></a>
+</li>
+<li class="usa-nav__submenu-item">
+<a data-drupal-link-system-path="node/3183" href="/topics/basic-nutrition"><span>Basic Nutrition</span></a>
+</li>
+<li class="usa-nav__submenu-item">
+<a data-drupal-link-system-path="node/3198" href="/topics/diet-and-health-conditions"><span>Diet and Health Conditions</span></a>
+</li>
+<li class="usa-nav__submenu-item">
+<a data-drupal-link-system-path="node/3199" href="/topics/dietary-supplements"><span>Dietary Supplements</span></a>
+</li>
+<li class="usa-nav__submenu-item">
+<a data-drupal-link-system-path="node/3746" href="/topics/exercise-and-fitness"><span>Exercise and Fitness</span></a>
+</li>
+<li class="usa-nav__submenu-item">
+<a data-drupal-link-system-path="node/3447" href="/topics/food-safety"><span>Food Safety</span></a>
+</li>
+<li class="usa-nav__submenu-item">
+<a data-drupal-link-system-path="node/3864" href="/topics/food-security-and-access"><span>Food Security and Access</span></a>
+</li>
+<li class="usa-nav__submenu-item">
+<a data-drupal-link-system-path="node/3219" href="/topics/healthy-living-and-weight"><span>Healthy Living and Weight</span></a>
+</li>
+<li class="usa-nav__submenu-item">
+<a data-drupal-link-system-path="node/3182" href="/topics/nutrition-life-stage"><span>Nutrition by Life Stage</span></a>
+</li>
+<li class="usa-nav__submenu-item">
+<a data-drupal-link-system-path="node/3194" href="/topics/shopping-cooking-and-meal-planning"><span>Shopping, Cooking and Meal Planning</span></a>
+</li>
+<li class="usa-nav__submenu-item">
+<a data-drupal-link-system-path="node/3196" href="/topics/whats-food"><span>What's In Food</span></a>
+</li>
+<li class="usa-nav__submenu-item">
+<a data-drupal-link-system-path="node/2941" href="/topics"><span>All Topics</span></a>
+</li>
+</ul>
+</li>
+<li class="usa-nav__primary-item">
+<a class="usa-nav-link" data-drupal-link-system-path="node/3423" href="/recipes"><span>Recipes</span></a>
+</li>
+<li class="usa-nav__primary-item">
+<a class="usa-nav-link" data-drupal-link-system-path="node/3132" href="/usda-ree" title="USDA - Research, Education, and Economics"><span>USDA - REE</span></a>
+</li>
+<li class="usa-nav__primary-item">
+<a class="usa-nav-link" data-drupal-link-system-path="node/3750" href="/expert-q-a"><span>Expert Q&amp;A</span></a>
+</li>
+<li class="usa-nav__primary-item">
+<a class="usa-nav-link" data-drupal-link-system-path="node/3007" href="/contact-us"><span>Contact Us</span></a>
+</li>
+</ul>
+</div>
+</nav>
+</header>
+<div class="grid-container">
+<div class="grid-row grid-gap">
+<section class="tablet:grid-col-9">
+<div class="highlighted"></div>
+<main id="main-content">
+<div class="region region--content">
+<div class="hidden" data-drupal-messages-fallback=""></div><div class="block block-system block-system-breadcrumb-block" id="block-global-subtheme-breadcrumbs">
+<nav aria-label="Breadcrumbs" class="usa-breadcrumb" data-component-id="nal_global:breadcrumbs">
+<ol class="usa-breadcrumb__list">
+<li class="usa-breadcrumb__list-item">
+<a class="usa-breadcrumb__link" href="/"><span>Home</span></a>
+</li>
+<li class="usa-breadcrumb__list-item">
+<a class="usa-breadcrumb__link" href="https://www.nutrition.gov/recipes"><span>Recipes</span></a>
+</li>
+<li aria-current="page" class="usa-breadcrumb__list-item usa-current">
+<span>Recipe Search</span>
+</li>
+</ol>
+</nav>
+</div>
+<div class="block block-core block-page-title-block" id="block-global-subtheme-pagetitle">
+<h1 class="margin-top-0">Recipe Search</h1>
+</div>
+<div class="block block-system block-system-main-block" id="block-global-subtheme-content">
+<div class="views-element-container"><div class="view-recipe-search js-view-dom-id-c4a48f32428cfceb8c45a912390b884161d564e45d05c26de79786d90d07ad72">
+<header>
+<h2>Displaying 1 - 24 of 142 recipes</h2>
+</header>
+<div class="margin-top-2">
+<ul class="usa-card-group">
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/three-sisters-salad" rel="bookmark"><span>Three Sisters Salad</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/three%20sisters%20salad.jpg?h=2a479378&amp;itok=ce3NHicm" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p><span>ᏎᎷ (she-lu) corn, ᏚᏯ (tu-ya) beans, and ᏩᎩᎦ (wa-gi-ga) squash are the three main ingredients that make up this version of Three Sisters salad. This low-sodium recipe also provides calcium, potassium, protein, iron and fiber. Three Sisters Salad is a perfect crowd-pleasing side dish to bring to pot lucks, family get-togethers, weekend barbeques or a just a healthy lunch at home.</span></p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>30 Minutes or Less</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Vegetables</span>,           <span>Protein</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/maple-brined-pork-chops" rel="bookmark"><span>Maple Brined Pork Chops</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/Grilled%20Bone-in%20Pork%20Chop.jpg?h=ef93b635&amp;itok=a139qB2-" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p><span>Pork and peaches are the perfect pairing for your next BBQ. This sweet and savory maple brined pork chops recipe will become a summer staple. </span></p>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Fruits</span>,           <span>Protein</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/chicken-salad-and-peach-sandwich" rel="bookmark"><span>Chicken Salad and Peach Sandwich</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/Peach-chickensalad.jpg?h=80adf6bc&amp;itok=B-Om3AKd" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>Elevate your chicken salad sandwich with the addition of sweet peaches. </p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>30 Minutes or Less</span>,           <span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Fruits</span>,           <span>Vegetables</span>,           <span>Protein</span>,           <span>Grains</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/red-white-and-green-grilled-cheese" rel="bookmark"><span>Red, White, and Green Grilled Cheese</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/AdobeStock_498217013.jpeg?h=6f8e8448&amp;itok=9S87mYX5" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p><span>Switch up your cold sandwich with this delicious red, white, and green grilled cheese filled with tomatoes, mozzarella, and spinach. </span></p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>30 Minutes or Less</span>,           <span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Vegetables</span>,           <span>Protein</span>,           <span>Grains</span> </div>
+</div>
+<div class="field field--name-recipe-cuisine field--type-entity-reference field--label-above">
+<div class="field__label">Cuisine</div>
+<div>
+<span>Vegetarian</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/sheet-pan-sausage-and-veggie-bake" rel="bookmark"><span>Sheet Pan Sausage and Veggie Bake</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/AdobeStock_785777493.jpeg?h=2992ba0a&amp;itok=kuIM57NC" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>Enjoy a healthy dinner in less than 40 minutes filled with colorful vegetables and lean chicken sausage. </p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Vegetables</span>,           <span>Protein</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/quick-lasagna" rel="bookmark"><span>Quick Lasagna</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/AdobeStock_100521407.jpeg?h=5fa5e2cc&amp;itok=8BxLmFgs" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>This cheesy and hearty lasagna only takes one pan and is ready in 45 minutes.</p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Vegetables</span>,           <span>Protein</span>,           <span>Dairy</span>,           <span>Grains</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/watermelon-cooler" rel="bookmark"><span>Watermelon Cooler</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/AdobeStock_341248440.jpeg?h=a36a4735&amp;itok=NSidAD8a" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>A refreshing kid-approved drink with only 2 ingredients.</p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>30 Minutes or Less</span>,           <span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Fruits</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/watermelon-sundaes" rel="bookmark"><span>Watermelon Sundaes</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/AdobeStock_50212061.jpeg?h=7685ba0d&amp;itok=z58lg9VF" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>These ice cream-free Red, White and Blue Sundaes are filled with generous scoops of watermelon and blueberries then topped with dollops of whipped topping.</p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>30 Minutes or Less</span>,           <span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Fruits</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/5-day-salad" rel="bookmark"><span>5 A Day Salad</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/5%20A%20Day%20Salad%20Pic%201.jpg?h=80adf6bc&amp;itok=cuL5-8L9" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>This nutrient-packed salad uses ten different vegetables, and each serving is equal to five cups of vegetables!</p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>30 Minutes or Less</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Vegetables</span> </div>
+</div>
+<div class="field field--name-recipe-cuisine field--type-entity-reference field--label-above">
+<div class="field__label">Cuisine</div>
+<div>
+<span>Vegetarian</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/strawberry-mango-feta-toast" rel="bookmark"><span>Strawberry Mango Feta Toast</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/Mango%20Toast%20Final.jpg?h=80adf6bc&amp;itok=eMoaQ7eM" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>Diced strawberries, mango, and fat-free feta cheese provide the perfect balance of sweet, savory, and tangy for these quick and colorful brunch or lunch toast points.</p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>30 Minutes or Less</span>,           <span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Fruits</span>,           <span>Dairy</span>,           <span>Grains</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/berry-bread-pudding" rel="bookmark"><span>Berry Bread Pudding</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/Berry%20Bread%20Pudding.jpg?h=80adf6bc&amp;itok=cv-V2UTr" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>This no-cook variation of bread pudding, uses bread, berries, yogurt, and time to create a pudding style dish.</p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Fruits</span>,           <span>Grains</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/homemade-hummus" rel="bookmark"><span>Homemade Hummus</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/Hummus.jpeg?h=fee4874d&amp;itok=V-q1Z_ak" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>This classic garbanzo bean dip is easy to make and a versatile dish. Serve hummus with fresh raw vegetables, on a piece of whole wheat pita bread or tortilla, on crackers, or as a sandwich filling.</p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>30 Minutes or Less</span>,           <span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Vegetables</span> </div>
+</div>
+<div class="field field--name-recipe-cuisine field--type-entity-reference field--label-above">
+<div class="field__label">Cuisine</div>
+<div>
+<span>Vegetarian</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/couscous-carrots-walnuts-and-raisins" rel="bookmark"><span>Couscous With Carrots, Walnuts, and Raisins </span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/couscous.jpeg?h=0d27ee61&amp;itok=j6Jeoi87" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>This quick-cooking grain dish has a touch of sweet and nutty flavors to go with most main dishes.</p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>30 Minutes or Less</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Grains</span> </div>
+</div>
+<div class="field field--name-recipe-cuisine field--type-entity-reference field--label-above">
+<div class="field__label">Cuisine</div>
+<div>
+<span>Vegetarian</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/savory-meatball-muffins" rel="bookmark"><span>Savory Meatball Muffins</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/Meatloaf%20Cupcakes.jpeg?h=7685ba0d&amp;itok=ts2lvnD2" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>These kid-friendly meatloaf muffins are full of flavor and have a beautiful presentation. Top with mashed potatoes for a savory 'meatloaf cupcake'.</p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Protein</span>,           <span>Dairy</span>,           <span>Grains</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/quick-and-easy-pizza" rel="bookmark"><span>Quick and Easy Pizza</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/Pizza.jpeg?h=4554af28&amp;itok=i7vF9q_n" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p><span>This recipe uses a traditional pizza dough recipe with yeast, but only needs 15 minutes for the dough to rise. Once you try this fresh, homemade pizza, you might never go back to frozen or delivery!</span></p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Vegetables</span>,           <span>Dairy</span>,           <span>Grains</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/cabbage-comfort" rel="bookmark"><span>Cabbage Comfort</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/CabbageComfort.jpg?h=80adf6bc&amp;itok=dVlh_jdD" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p><span>Cabbage, onion, and caraway seeds make this simple and inexpensive side dish a flavorful way to eat more veggies.</span></p>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Vegetables</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/mushroom-beef-sloppy-joes" rel="bookmark"><span>Mushroom Beef Sloppy Joes</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/Sloppy%20Joe.jpeg?h=c100e979&amp;itok=x3sYCMj6" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p><span>Chopped mushrooms, when sautéed, blend seamlessly with ground meats. Swapping or adding mushrooms to a recipe can add an extra serving of vegetables to the plate.</span></p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>30 Minutes or Less</span>,           <span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Vegetables</span>,           <span>Protein</span>,           <span>Grains</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/argentinian-chimichurri-sauce" rel="bookmark"><span>Argentinian Chimichurri Sauce</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/Chimichurri.jpeg?h=a64059f6&amp;itok=fg313ree" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p><span>Add some South American flair to your meal with this flavorful sauce, which can be used on meat, fish, or vegetables as a marinade or poured over your finished product.</span></p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>30 Minutes or Less</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/easy-bean-soup" rel="bookmark"><span>Easy Bean Soup</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/Bean%20Soup.jpeg?h=707d5502&amp;itok=bnnaZHj8" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>Cook a healthy meal in less than 10 minutes with pantry staples. </p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>30 Minutes or Less</span>,           <span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Vegetables</span>,           <span>Protein</span>,           <span>Dairy</span> </div>
+</div>
+<div class="field field--name-recipe-cuisine field--type-entity-reference field--label-above">
+<div class="field__label">Cuisine</div>
+<div>
+<span>Vegetarian</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/blueberry-oatmeal-pancakes" rel="bookmark"><span>Blueberry Oatmeal Pancakes</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/Oat%20blueberry%20pancakes%20stack%20on%20a%20plate.jpeg?h=909c3ceb&amp;itok=JNicbxU_" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>Combine two breakfast favorites, oatmeal and pancakes, with these delicious blueberry oatmeal pancakes. </p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Fruits</span>,           <span>Grains</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/homemade-bagels" rel="bookmark"><span>Homemade Bagels</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/homemade%20bagel.jpeg?h=51a72048&amp;itok=ZBO59fjK" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p>Did you know that you can make your own fresh, delicious, whole-grain rich bagels at home? This recipe makes enough to share with family and friends, or to freeze extras to last you for weeks.</p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Grains</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/velvety-avocado-pesto-dip" rel="bookmark"><span>Velvety Avocado Pesto Dip</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/avocado%20dip.jpeg?h=dc979f49&amp;itok=22eFEu-i" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p><span>Elevate traditional guacamole with basil and pine nuts to create this velvety dip. </span></p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Vegetables</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/avocado-and-corn-salsa" rel="bookmark"><span>Avocado and Corn Salsa</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/avocado%20salsa.jpeg?h=4c56f784&amp;itok=4rUcf4kW" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p><span>Combine avocados and corn with fresh cilantro and lime in this tasty side. </span></p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Vegetables</span> </div>
+</div>
+</div>
+</div>
+</li>
+<li class="usa-card"><div class="recipe is-promoted card usa-card__container clearfix">
+<div class="usa-card__header">
+<h3 class="usa-card__heading">
+<a href="/recipes/avocado-melon-breakfast-smoothie" rel="bookmark"><span>Avocado Melon Breakfast Smoothie</span>
+</a>
+</h3>
+</div>
+<div class="usa-card__media">
+<div class="usa-card__img">
+<div class="field__item"> <img alt="" height="220" loading="lazy" src="/sites/default/files/styles/card/public/recipe_images/avocado%20smoothie.jpeg?h=2992ba0a&amp;itok=xRhqaLq4" width="330"/>
+</div>
+</div>
+</div>
+<div class="usa-card__body">
+<div class="field__item"><p><span lang="EN-US">Enjoy a breakfast full of fruits and vegetables with this breakfast smoothie.</span><span> </span></p>
+</div>
+<div class="field field--name-recipe-category field--type-entity-reference field--label-above">
+<div class="field__label">Category</div>
+<div>
+<span>30 Minutes or Less</span>,           <span>Kid-Friendly</span> </div>
+</div>
+<div class="field field--name-recipe-food-group field--type-list-string field--label-above">
+<div class="field__label">Food group</div>
+<div>
+<span>Fruits</span>,           <span>Vegetables</span>,           <span>Dairy</span> </div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+<nav aria-label="Pagination" class="usa-pagination" data-component-id="nal_global:pagination">
+<ul class="js-pager__items usa-pagination__list">
+<li class="usa-pagination__item usa-pagination__arrow usa-pagination__page-no">
+<a aria-label="Page 1" class="usa-pagination__button usa-current" href="?page=0">1</a>
+</li>
+<li class="usa-pagination__item usa-pagination__arrow usa-pagination__page-no">
+<a aria-label="Page 2" class="usa-pagination__button" href="?page=1">2</a>
+</li>
+<li class="usa-pagination__item usa-pagination__arrow usa-pagination__page-no">
+<a aria-label="Page 3" class="usa-pagination__button" href="?page=2">3</a>
+</li>
+<li class="usa-pagination__item usa-pagination__arrow usa-pagination__page-no">
+<a aria-label="Page 4" class="usa-pagination__button" href="?page=3">4</a>
+</li>
+<li class="usa-pagination__item usa-pagination__arrow usa-pagination__page-no">
+<a aria-label="Page 5" class="usa-pagination__button" href="?page=4">5</a>
+</li>
+<li class="usa-pagination__item usa-pagination__arrow usa-pagination__page-no">
+<a aria-label="Page 6" class="usa-pagination__button" href="?page=5">6</a>
+</li>
+<li class="usa-pagination__item usa-pagination__arrow usa-pagination__page-no">
+<a aria-label="Next page" class="usa-pagination__link usa-pagination__next-page" href="?page=1">
+<span class="usa-pagination__link-text">Next </span>
+<svg aria-hidden="true" class="usa-icon" focusable="false" role="img"><use href="/themes/custom/nal_global/uswds/img/sprite.svg#navigate_next"></use></svg>
+</a>
+</li>
+<li class="usa-pagination__item usa-pagination__arrow usa-pagination__page-no">
+<a aria-label="Last page" class="usa-pagination__link usa-pagination__next-page" href="?page=5">
+<span class="usa-pagination__link-text">Last </span>
+<svg aria-hidden="true" class="usa-icon" focusable="false" role="img"><use href="/themes/custom/nal_global/uswds/img/sprite.svg#navigate_far_next"></use></svg>
+</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</main>
+</section>
+<aside class="tablet:grid-col-3 tablet:order-first">
+<div class="region region--sidebar-first">
+<div class="views-exposed-form usa-search usa-search--small block block-views block-views-exposed-filter-blockrecipe-search-search-page" data-drupal-selector="views-exposed-form-recipe-search-search-page" id="block-global-subtheme-exposedformrecipe-searchsearch-page-2" role="search">
+<form accept-charset="UTF-8" action="/recipes/search" class="usa-form" id="views-exposed-form-recipe-search-search-page" method="get">
+<div class="js-form-item form-item form-type-search js-form-type-search form-item-keyword js-form-item-keyword form-no-label">
+<label class="usa-label visually-hidden" for="edit-keyword--2">Search Recipes</label>
+<input class="form-search usa-input" data-drupal-selector="edit-keyword" id="edit-keyword--2" maxlength="128" name="keyword" placeholder="Search Recipes" size="30" type="search"/>
+</div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--XDoqR2d_VCM">
+<button class="button js-form-submit form-submit usa-button" data-component-id="nal_global:button" data-drupal-selector="edit-submit-recipe-search-2" id="edit-submit-recipe-search--2" type="submit" value="Search"><svg aria-hidden="true" class="usa-icon" focusable="false" role="img"><use href="/themes/custom/nal_global/uswds/img/sprite.svg#search"></use></svg>
+<span class="nal-button__text">Search</span>
+</button>
+</div>
+</form>
+</div>
+<div class="facet-inactive block-facet--checkbox block block-facets block-facet-blockcourse" id="block-global-subtheme-course">
+<h2>Meal Type</h2>
+<div class="facets-widget-checkbox">
+<ul class="facet-inactive js-facets-checkbox-links item-list__checkbox" data-drupal-facet-alias="course" data-drupal-facet-id="course"><li class="facet-item"><a data-drupal-facet-item-count="70" data-drupal-facet-item-id="course-dinner" data-drupal-facet-item-value="Dinner" href="/recipes/search?f%5B0%5D=course%3ADinner" rel="nofollow"><span class="facet-item__value">Dinner</span>
+<span class="facet-item__count">(70)</span>
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="54" data-drupal-facet-item-id="course-lunch" data-drupal-facet-item-value="Lunch" href="/recipes/search?f%5B0%5D=course%3ALunch" rel="nofollow"><span class="facet-item__value">Lunch</span>
+<span class="facet-item__count">(54)</span>
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="44" data-drupal-facet-item-id="course-snack" data-drupal-facet-item-value="Snack" href="/recipes/search?f%5B0%5D=course%3ASnack" rel="nofollow"><span class="facet-item__value">Snack</span>
+<span class="facet-item__count">(44)</span>
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="30" data-drupal-facet-item-id="course-breakfast" data-drupal-facet-item-value="Breakfast" href="/recipes/search?f%5B0%5D=course%3ABreakfast" rel="nofollow"><span class="facet-item__value">Breakfast</span>
+<span class="facet-item__count">(30)</span>
+</a></li></ul>
+</div>
+</div>
+<div class="facet-inactive block-facet--checkbox block block-facets block-facet-blockrecipe-categories" id="block-global-subtheme-recipecategories">
+<h2>Categories</h2>
+<div class="facets-widget-checkbox">
+<ul class="facet-inactive js-facets-checkbox-links item-list__checkbox" data-drupal-facet-alias="category" data-drupal-facet-id="recipe_categories"><li class="facet-item"><a data-drupal-facet-item-count="93" data-drupal-facet-item-id="category-kid-friendly" data-drupal-facet-item-value="Kid-Friendly" href="/recipes/search?f%5B0%5D=category%3AKid-Friendly" rel="nofollow"><span class="facet-item__value">Kid-Friendly</span>
+<span class="facet-item__count">(93)</span>
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="63" data-drupal-facet-item-id="category-30-minutes-or-less" data-drupal-facet-item-value="30 Minutes or Less" href="/recipes/search?f%5B0%5D=category%3A30%20Minutes%20or%20Less" rel="nofollow"><span class="facet-item__value">30 Minutes or Less</span>
+<span class="facet-item__count">(63)</span>
+</a></li></ul>
+</div>
+</div>
+<div class="facet-inactive block-facet--checkbox block block-facets block-facet-blockfood-group" id="block-global-subtheme-foodgroup">
+<h2>Food Groups</h2>
+<div class="facets-widget-checkbox">
+<ul class="facet-inactive js-facets-checkbox-links item-list__checkbox" data-drupal-facet-alias="food_group" data-drupal-facet-id="food_group"><li class="facet-item"><a data-drupal-facet-item-count="89" data-drupal-facet-item-id="food-group-vegetables" data-drupal-facet-item-value="Vegetables" href="/recipes/search?f%5B0%5D=food_group%3AVegetables" rel="nofollow"><span class="facet-item__value">Vegetables</span>
+<span class="facet-item__count">(89)</span>
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="65" data-drupal-facet-item-id="food-group-protein" data-drupal-facet-item-value="Protein" href="/recipes/search?f%5B0%5D=food_group%3AProtein" rel="nofollow"><span class="facet-item__value">Protein</span>
+<span class="facet-item__count">(65)</span>
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="62" data-drupal-facet-item-id="food-group-grains" data-drupal-facet-item-value="Grains" href="/recipes/search?f%5B0%5D=food_group%3AGrains" rel="nofollow"><span class="facet-item__value">Grains</span>
+<span class="facet-item__count">(62)</span>
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="39" data-drupal-facet-item-id="food-group-dairy" data-drupal-facet-item-value="Dairy" href="/recipes/search?f%5B0%5D=food_group%3ADairy" rel="nofollow"><span class="facet-item__value">Dairy</span>
+<span class="facet-item__count">(39)</span>
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="36" data-drupal-facet-item-id="food-group-fruits" data-drupal-facet-item-value="Fruits" href="/recipes/search?f%5B0%5D=food_group%3AFruits" rel="nofollow"><span class="facet-item__value">Fruits</span>
+<span class="facet-item__count">(36)</span>
+</a></li></ul>
+</div>
+</div>
+<div class="facet-inactive block-facet--checkbox block block-facets block-facet-blockseason" id="block-global-subtheme-season">
+<h2>Season</h2>
+<div class="facets-widget-checkbox">
+<ul class="facet-inactive js-facets-checkbox-links item-list__checkbox" data-drupal-facet-alias="season" data-drupal-facet-id="season"><li class="facet-item"><a data-drupal-facet-item-count="108" data-drupal-facet-item-id="season-fall" data-drupal-facet-item-value="Fall" href="/recipes/search?f%5B0%5D=season%3AFall" rel="nofollow"><span class="facet-item__value">Fall</span>
+<span class="facet-item__count">(108)</span>
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="102" data-drupal-facet-item-id="season-summer" data-drupal-facet-item-value="Summer" href="/recipes/search?f%5B0%5D=season%3ASummer" rel="nofollow"><span class="facet-item__value">Summer</span>
+<span class="facet-item__count">(102)</span>
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="98" data-drupal-facet-item-id="season-winter" data-drupal-facet-item-value="Winter" href="/recipes/search?f%5B0%5D=season%3AWinter" rel="nofollow"><span class="facet-item__value">Winter</span>
+<span class="facet-item__count">(98)</span>
+</a></li><li class="facet-item"><a data-drupal-facet-item-count="90" data-drupal-facet-item-id="season-spring" data-drupal-facet-item-value="Spring" href="/recipes/search?f%5B0%5D=season%3ASpring" rel="nofollow"><span class="facet-item__value">Spring</span>
+<span class="facet-item__count">(90)</span>
+</a></li></ul>
+</div>
+</div>
+</div>
+</aside>
+</div>
+</div>
+<footer class="usa-footer">
+<div class="usa-footer__primary-section">
+<div class="grid-container">
+<div class="region region--footer">
+<div class="display-flex flex-align-center font-body-lg block block-tagline-block" id="block-global-subtheme-tagline">
+<p>Nutrition.gov is powered by <a href="/about-us">Federal Science and Nutrition</a></p>
+</div>
+<div class="block block-nal-social-icons block-social-icons-block" id="block-global-subtheme-socialmediaicons">
+<ul class="social-links">
+<li><a class="social-link social-link--facebook" href="https://www.facebook.com/USDA"><span class="visually-hidden">Facebook</span></a></li>
+<li><a class="social-link social-link--twitter" href="https://twitter.com/Nutrition_gov"><span class="visually-hidden">Twitter</span></a></li>
+<li><a class="social-link social-link--youtube" href="https://www.youtube.com/NationalAgLibrary"><span class="visually-hidden">YouTube</span></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="usa-footer__secondary-section">
+<div class="grid-container">
+<nav aria-label="Government Links" class="nal-government-links grid-row">
+<ul class="nal-government-links__list tablet:grid-col-12">
+<li class="nal-government-links__list-item">
+<a class="nal-government-links__link" href="https://www.usda.gov/policies-and-links">Policies and Links</a>
+</li>
+<li class="nal-government-links__list-item">
+<a class="nal-government-links__link" href="https://www.usda.gov/plain-writing">Plain Writing</a>
+</li>
+<li class="nal-government-links__list-item">
+<a class="nal-government-links__link" href="https://www.ars.usda.gov/oc/foia/freedom-of-information-act-and-privacy-act-reference-guide/">FOIA</a>
+</li>
+<li class="nal-government-links__list-item">
+<a class="nal-government-links__link" href="https://www.usda.gov/accessibility-statement">Accessibility Statement</a>
+</li>
+<li class="nal-government-links__list-item">
+<a class="nal-government-links__link" href="https://www.usda.gov/privacy-policy">Privacy Policy</a>
+</li>
+<li class="nal-government-links__list-item">
+<a class="nal-government-links__link" href="https://www.usda.gov/non-discrimination-statement">Non-Discrimination Statement</a>
+</li>
+<li class="nal-government-links__list-item">
+<a class="nal-government-links__link" href="https://www.usda.gov/about-usda/general-information/staff-offices/office-assistant-secretary-civil-rights">Office of the Assistant Secretary for Civil Rights (OASCR)</a>
+</li>
+<li class="nal-government-links__list-item">
+<a class="nal-government-links__link" href="https://www.ars.usda.gov/docs/quality-of-information/">Information Quality</a>
+</li>
+<li class="nal-government-links__list-item">
+<a class="nal-government-links__link" href="https://www.nal.usda.gov">National Agricultural Library</a>
+</li>
+<li class="nal-government-links__list-item">
+<a class="nal-government-links__link" href="https://www.ars.usda.gov">Agricultural Research Service</a>
+</li>
+<li class="nal-government-links__list-item">
+<a class="nal-government-links__link" href="https://www.usda.gov">USDA.gov</a>
+</li>
+<li class="nal-government-links__list-item">
+<a class="nal-government-links__link" href="https://www.usa.gov">USA.gov</a>
+</li>
+<li class="nal-government-links__list-item">
+<a class="nal-government-links__link" href="https://www.whitehouse.gov">WhiteHouse.gov</a>
+</li>
+</ul>
+</nav>
+</div>
+</div>
+</footer>
+</div>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0-rc.1"></script>
+<script src="/sites/default/files/js/js_PNetgq5tQYfT7pSMEKHk_Kukxmh7aUcyBMq8HGMdAVM.js?scope=footer&amp;delta=1&amp;language=en&amp;theme=global_subtheme&amp;include=eJyFjv0OwjAIxF-oax9poS1jdbSYwT58e2ecMdEY_zly3A9ySWYMSepVGjZT34B7YonAXRehNZwd7salTSHPyxXYn9YNkND0tX06n0ZMU5S920omtBekMljHpRZzz-e9LtFGrBgW3bI6EiHG3oACHfLpPVxgd-9u59WiA2aStT9xOIiblaThZ-JTbm7DOMhcwzk98tGkmc9oUFi9wop_IRM6Pv_EKqoCfecPuQO6cpED"></script>
+</body>
+</html>
